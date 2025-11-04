@@ -55,7 +55,7 @@ Gorshenin, A. K., & Vilyaev, A. L. (2024).
 
 ```bash
 # Clone repository
-git clone https://github.com/<your-username>/connected-mixture-components.git
+git clone https://github.com/<heliapourganjalikhan>/connected-mixture-components.git
 cd connected-mixture-components
 
 # (Optional) create environment
